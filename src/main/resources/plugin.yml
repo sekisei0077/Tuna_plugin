@@ -1,0 +1,4 @@
+name: Tuna
+version: '1.0.0'
+main: net.acecore.tuna.Tuna
+api-version: '1.18'
